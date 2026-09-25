@@ -1,4 +1,4 @@
--- Rivals Test Project Loader
+-- Rivals Test Project Loader (fixed AnimationLibrary)
 -- Usage:
 --   loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/loader.luau"))()
 -- Or paste entire file into executor / loadstring.
